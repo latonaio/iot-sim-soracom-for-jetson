@@ -1,6 +1,6 @@
-# ソラコムIoT SIM の Jetson へのセットアップ #
+# iot-sim-soracom-for-jetson
 
-ソラコムIoT SIM および USBドングルをJetsonに対してセットアップする
+iot-sim-soracom-for-jetsonは、ソラコムIoT SIM および USBドングルをJetsonに対してセットアップする手順概要です。
 
 OS: JetPack 4.X  
 USBドングル: Huawei MS2372
